@@ -1,0 +1,7 @@
+requests
+bs4
+duckduckgo_search
+nltk
+collections
+re
+ollama
